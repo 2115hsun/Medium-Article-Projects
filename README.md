@@ -34,7 +34,7 @@ Each folder in this repo corresponds to a research piece. Here is what I’m cur
 ## 🎓 Background
 I am a recent graduate of **Aerospace Engineering at the University of Illinois (UIUC)**, where my work focused on space system designs and research related to composite materials. 
 
-I am currently pivoting my analytical and engineering background toward the financial sector. I am building these projects as part of my preparation for applying to **Master’s programs in Financial Engineering and Operations Research**. I enjoy the challenge of taking the rigorous mathematical frameworks of engineering and applying them to the complexity of the financial markets.
+I am currently pivoting my analytical and engineering background toward the financial sector. I am building these projects as part of my preparation for applying to Master’s programs in Financial Engineering and Operations Research and potentially my PhD in the near-future. I enjoy the challenge of taking the rigorous mathematical frameworks of engineering and applying them to the complexity of the financial markets.
 
 ### Connect with me:
 * **Medium:** [@DaveSun](https://medium.com/@2115hsun)
