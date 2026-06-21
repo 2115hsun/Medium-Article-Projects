@@ -7,7 +7,7 @@ This repository is a collection of the Jupyter Notebooks and Python scripts I’
 ---
 
 ## 📂 Project Focus
-Each folder in this repo corresponds to a deep-dive research piece or article. Here is what I’m currently exploring:
+Each folder in this repo corresponds to a research piece. Here is what I’m currently exploring:
 
 ### Volatility Modeling & Forecasting
 * **Yang-Zhang Volatility Estimator**
