@@ -1,0 +1,11 @@
+# Data — too big / doesn't belong in Git
+data/
+**/Data/
+*.csv
+*.zip
+*.zst
+
+# Nested git repos
+Ito Lemma_Black Scholes Proof/HMM-and-Time-Series/
+Supertrend_Chronos_Pipeline/Futures-Foundation-Model/
+Topstep Bot/algoTraderBot/
