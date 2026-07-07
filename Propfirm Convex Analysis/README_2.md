@@ -1,7 +1,7 @@
 # Prop Firm Challenge Simulator
 
 Monte Carlo framework that models a $50K prop-firm evaluation as a **first-passage
-problem**: reach $53,000 (profit target) before the drawdown barrier ends you.
+problem**: reach $53,000 (profit target) before the drawdown barrier.
 The whole point is not P&L — it's maximizing **P(pass)**, then choosing the risk
 sizing and R:R geometry that games each firm's specific barrier structure.
 
